@@ -23,13 +23,16 @@ import io.cucumber.testng.CucumberOptions;
 public class Runner extends AbstractTestNGCucumberTests {
 	
 	@BeforeSuite
-	public void allureReportCleanup() {
+	public void allureReportCleanup() throws Throwable {
 		String fileDirectoryDetails = System.getProperty("user.dir") + "\\allure-results";
+		String targetDirectory = System.getProperty("user.dir") + "\\target";
 		File file = new File(fileDirectoryDetails);
 
 		if (file.isDirectory()) {
 			try {
 				FileUtils.cleanDirectory(file);
+				Thread.sleep(2000);
+				FileUtils.cleanDirectory(new File(targetDirectory));
 			} catch (IOException e) {
 				// TODO Auto-generated catch block
 				e.printStackTrace();
