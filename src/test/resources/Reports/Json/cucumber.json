@@ -1,0 +1,1622 @@
+[
+  {
+    "line": 1,
+    "elements": [
+      {
+        "start_timestamp": "2023-01-27T05:48:35.084Z",
+        "before": [
+          {
+            "result": {
+              "duration": 3773400,
+              "status": "passed"
+            },
+            "match": {
+              "location": "Before_And_After.beforeExecutedClassForVariousRegionIndia(Scenario)"
+            }
+          }
+        ],
+        "line": 4,
+        "name": "To validate application login page with Indian Region",
+        "description": "",
+        "id": "validate-application-login-page-with-india-region-functionality;to-validate-application-login-page-with-indian-region",
+        "after": [
+          {
+            "result": {
+              "duration": 1719700,
+              "status": "passed"
+            },
+            "match": {
+              "location": "Before_And_After.afterExecutedClassForVariousRegionIndia(Scenario)"
+            }
+          }
+        ],
+        "type": "scenario",
+        "keyword": "Scenario",
+        "steps": [
+          {
+            "result": {
+              "duration": 10532164800,
+              "status": "passed"
+            },
+            "line": 5,
+            "name": "Launch the url with Indian Region",
+            "match": {
+              "location": "Steps.launch_the_url_with_Indian_Region()"
+            },
+            "keyword": "Given "
+          },
+          {
+            "result": {
+              "duration": 11841471300,
+              "status": "passed"
+            },
+            "line": 6,
+            "name": "Click on Chrome Extensions",
+            "match": {
+              "location": "Steps.click_on_Chrome_Extensions()"
+            },
+            "keyword": "When "
+          },
+          {
+            "result": {
+              "duration": 6120618000,
+              "status": "passed"
+            },
+            "line": 7,
+            "name": "Click on Pin From Chrome Extensions",
+            "match": {
+              "location": "Steps.click_on_Pin_From_Chrome_Extensions()"
+            },
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 6076478000,
+              "status": "passed"
+            },
+            "line": 8,
+            "name": "Click on RevDriver by SalesIntel",
+            "match": {
+              "location": "Steps.click_on_RevDriver_by_SalesIntel()"
+            },
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 5140016400,
+              "status": "passed"
+            },
+            "line": 10,
+            "name": "Switch To Frame with Indian Region",
+            "match": {
+              "location": "Steps.switch_To_Frame_with_Indian_Region()"
+            },
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 161016800,
+              "status": "passed"
+            },
+            "line": 11,
+            "name": "Enter the UserName with Indian Region",
+            "match": {
+              "location": "Steps.enter_the_UserName_with_Indian_Region()"
+            },
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 96244000,
+              "status": "passed"
+            },
+            "line": 12,
+            "name": "Enter the Password with Indian Region",
+            "match": {
+              "location": "Steps.enter_the_Password_with_Indian_Region()"
+            },
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 12239946600,
+              "status": "passed"
+            },
+            "line": 13,
+            "name": "Click on Login CTA with Indian Region",
+            "match": {
+              "location": "Steps.click_on_Login_CTA_with_Indian_Region()"
+            },
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 5158282500,
+              "status": "passed"
+            },
+            "line": 14,
+            "name": "Close the Browser with Indian Region",
+            "match": {
+              "location": "Steps.close_the_Browser_with_Indian_Region()"
+            },
+            "keyword": "And "
+          }
+        ],
+        "tags": [
+          {
+            "name": "@Various_Region_India"
+          }
+        ]
+      }
+    ],
+    "name": "Validate application login Page with India Region functionality",
+    "description": "",
+    "id": "validate-application-login-page-with-india-region-functionality",
+    "keyword": "Feature",
+    "uri": "file:src/test/resources/Features/TC01_Login_Feature_With_Various_Region_India.feature",
+    "tags": []
+  },
+  {
+    "line": 1,
+    "elements": [
+      {
+        "start_timestamp": "2023-01-27T05:49:32.658Z",
+        "before": [
+          {
+            "result": {
+              "duration": 713000,
+              "status": "passed"
+            },
+            "match": {
+              "location": "Before_And_After.beforeExecutedClassForVariousRegionUS(Scenario)"
+            }
+          }
+        ],
+        "line": 4,
+        "name": "To validate application login page with US Region",
+        "description": "",
+        "id": "validate-application-login-page-with-us-region-functionality;to-validate-application-login-page-with-us-region",
+        "after": [
+          {
+            "result": {
+              "duration": 651900,
+              "status": "passed"
+            },
+            "match": {
+              "location": "Before_And_After.afterExecutedClassForVariousRegionUS(Scenario)"
+            }
+          }
+        ],
+        "type": "scenario",
+        "keyword": "Scenario",
+        "steps": [
+          {
+            "result": {
+              "duration": 14834046400,
+              "status": "passed"
+            },
+            "line": 5,
+            "name": "Launch the url with US Region",
+            "match": {
+              "location": "Steps.launch_the_url_with_US_Region()"
+            },
+            "keyword": "Given "
+          },
+          {
+            "result": {
+              "duration": 11121736600,
+              "status": "passed"
+            },
+            "line": 6,
+            "name": "Click on Chrome Extensions",
+            "match": {
+              "location": "Steps.click_on_Chrome_Extensions()"
+            },
+            "keyword": "When "
+          },
+          {
+            "result": {
+              "duration": 6115316000,
+              "status": "passed"
+            },
+            "line": 7,
+            "name": "Click on Pin From Chrome Extensions",
+            "match": {
+              "location": "Steps.click_on_Pin_From_Chrome_Extensions()"
+            },
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 6021217500,
+              "status": "passed"
+            },
+            "line": 8,
+            "name": "Click on RevDriver by SalesIntel",
+            "match": {
+              "location": "Steps.click_on_RevDriver_by_SalesIntel()"
+            },
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 5074270600,
+              "status": "passed"
+            },
+            "line": 10,
+            "name": "Switch To Frame with US Region",
+            "match": {
+              "location": "Steps.switch_To_Frame_with_US_Region()"
+            },
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 125860300,
+              "status": "passed"
+            },
+            "line": 11,
+            "name": "Enter the UserName with US Region",
+            "match": {
+              "location": "Steps.enter_the_UserName_with_US_Region()"
+            },
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 67610700,
+              "status": "passed"
+            },
+            "line": 12,
+            "name": "Enter the Password with US Region",
+            "match": {
+              "location": "Steps.enter_the_Password_with_US_Region()"
+            },
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 8848744500,
+              "status": "passed"
+            },
+            "line": 13,
+            "name": "Click on Login CTA with US Region",
+            "match": {
+              "location": "Steps.click_on_Login_CTA_with_US_Region()"
+            },
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 5320393300,
+              "status": "passed"
+            },
+            "line": 14,
+            "name": "Close the Browser with US Region",
+            "match": {
+              "location": "Steps.close_the_Browser_with_US_Region()"
+            },
+            "keyword": "And "
+          }
+        ],
+        "tags": [
+          {
+            "name": "@Various_Region_US"
+          }
+        ]
+      }
+    ],
+    "name": "Validate application login Page with US Region functionality",
+    "description": "",
+    "id": "validate-application-login-page-with-us-region-functionality",
+    "keyword": "Feature",
+    "uri": "file:src/test/resources/Features/TC02_Login_Feature_With_Various_Region_US.feature",
+    "tags": []
+  },
+  {
+    "line": 1,
+    "elements": [
+      {
+        "start_timestamp": "2023-01-27T05:50:30.213Z",
+        "before": [
+          {
+            "result": {
+              "duration": 1143800,
+              "status": "passed"
+            },
+            "match": {
+              "location": "Before_And_After.beforeExecutedClassForVariousRegionUK(Scenario)"
+            }
+          }
+        ],
+        "line": 4,
+        "name": "To validate application login page with UK Region",
+        "description": "",
+        "id": "validate-application-login-page-with-uk-region-functionality;to-validate-application-login-page-with-uk-region",
+        "after": [
+          {
+            "result": {
+              "duration": 974000,
+              "status": "passed"
+            },
+            "match": {
+              "location": "Before_And_After.afterExecutedClassForVariousRegionUK(Scenario)"
+            }
+          }
+        ],
+        "type": "scenario",
+        "keyword": "Scenario",
+        "steps": [
+          {
+            "result": {
+              "duration": 22865854900,
+              "status": "passed"
+            },
+            "line": 5,
+            "name": "Launch the url with UK Region",
+            "match": {
+              "location": "Steps.launch_the_url_with_UK_Region()"
+            },
+            "keyword": "Given "
+          },
+          {
+            "result": {
+              "duration": 11227811300,
+              "status": "passed"
+            },
+            "line": 6,
+            "name": "Click on Chrome Extensions",
+            "match": {
+              "location": "Steps.click_on_Chrome_Extensions()"
+            },
+            "keyword": "When "
+          },
+          {
+            "result": {
+              "duration": 6134135000,
+              "status": "passed"
+            },
+            "line": 7,
+            "name": "Click on Pin From Chrome Extensions",
+            "match": {
+              "location": "Steps.click_on_Pin_From_Chrome_Extensions()"
+            },
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 6105103800,
+              "status": "passed"
+            },
+            "line": 8,
+            "name": "Click on RevDriver by SalesIntel",
+            "match": {
+              "location": "Steps.click_on_RevDriver_by_SalesIntel()"
+            },
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 5092131800,
+              "status": "passed"
+            },
+            "line": 10,
+            "name": "Switch To Frame with UK Region",
+            "match": {
+              "location": "Steps.switch_To_Frame_with_UK_Region()"
+            },
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 124223500,
+              "status": "passed"
+            },
+            "line": 11,
+            "name": "Enter the UserName with UK Region",
+            "match": {
+              "location": "Steps.enter_the_UserName_with_UK_Region()"
+            },
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 80751300,
+              "status": "passed"
+            },
+            "line": 12,
+            "name": "Enter the Password with UK Region",
+            "match": {
+              "location": "Steps.enter_the_Password_with_UK_Region()"
+            },
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 8336767000,
+              "status": "passed"
+            },
+            "line": 13,
+            "name": "Click on Login CTA with UK Region",
+            "match": {
+              "location": "Steps.click_on_Login_CTA_with_UK_Region()"
+            },
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 5173946500,
+              "status": "passed"
+            },
+            "line": 14,
+            "name": "Close the Browser with UK Region",
+            "match": {
+              "location": "Steps.close_the_Browser_with_UK_Region()"
+            },
+            "keyword": "And "
+          }
+        ],
+        "tags": [
+          {
+            "name": "@Various_Region_UK"
+          }
+        ]
+      }
+    ],
+    "name": "Validate application login Page with UK Region functionality",
+    "description": "",
+    "id": "validate-application-login-page-with-uk-region-functionality",
+    "keyword": "Feature",
+    "uri": "file:src/test/resources/Features/TC03_Login_Feature_With_Various_Region_UK.feature",
+    "tags": []
+  },
+  {
+    "line": 1,
+    "elements": [
+      {
+        "start_timestamp": "2023-01-27T05:51:35.371Z",
+        "before": [
+          {
+            "result": {
+              "duration": 1439400,
+              "status": "passed"
+            },
+            "match": {
+              "location": "Before_And_After.beforeExecutedClassForCustomerDetails(Scenario)"
+            }
+          }
+        ],
+        "line": 4,
+        "name": "To validate application login page",
+        "description": "",
+        "id": "validate-application-customer-details-login-page;to-validate-application-login-page",
+        "after": [
+          {
+            "result": {
+              "duration": 356600,
+              "status": "passed"
+            },
+            "match": {
+              "location": "Before_And_After.afterExecutedClassForCustomerDetails(Scenario)"
+            }
+          }
+        ],
+        "type": "scenario",
+        "keyword": "Scenario",
+        "steps": [
+          {
+            "result": {
+              "duration": 9226263500,
+              "status": "passed"
+            },
+            "line": 5,
+            "name": "Launch the url",
+            "match": {
+              "location": "Steps.launch_the_url()"
+            },
+            "keyword": "Given "
+          },
+          {
+            "result": {
+              "duration": 10961412600,
+              "status": "passed"
+            },
+            "line": 6,
+            "name": "Click on Chrome Extensions",
+            "match": {
+              "location": "Steps.click_on_Chrome_Extensions()"
+            },
+            "keyword": "When "
+          },
+          {
+            "result": {
+              "duration": 6049583200,
+              "status": "passed"
+            },
+            "line": 7,
+            "name": "Click on Pin From Chrome Extensions",
+            "match": {
+              "location": "Steps.click_on_Pin_From_Chrome_Extensions()"
+            },
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 6051374900,
+              "status": "passed"
+            },
+            "line": 8,
+            "name": "Click on RevDriver by SalesIntel",
+            "match": {
+              "location": "Steps.click_on_RevDriver_by_SalesIntel()"
+            },
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 5096461900,
+              "status": "passed"
+            },
+            "line": 10,
+            "name": "Switch To Frame",
+            "match": {
+              "location": "Steps.switch_To_Frame()"
+            },
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 92860300,
+              "status": "passed"
+            },
+            "line": 11,
+            "name": "Enter the UserName",
+            "match": {
+              "location": "Steps.enter_the_UserName()"
+            },
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 77323100,
+              "status": "passed"
+            },
+            "line": 12,
+            "name": "Enter the Password",
+            "match": {
+              "location": "Steps.enter_the_Password()"
+            },
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 9077770800,
+              "status": "passed"
+            },
+            "line": 13,
+            "name": "Click on Login CTA",
+            "match": {
+              "location": "Steps.click_on_Login_CTA()"
+            },
+            "keyword": "And "
+          }
+        ],
+        "tags": [
+          {
+            "name": "@Customer_Details"
+          }
+        ]
+      }
+    ],
+    "name": "Validate application Customer Details-login page",
+    "description": "",
+    "id": "validate-application-customer-details-login-page",
+    "keyword": "Feature",
+    "uri": "file:src/test/resources/Features/TC04_Customer_Details_Login_Page.feature",
+    "tags": []
+  },
+  {
+    "line": 1,
+    "elements": [
+      {
+        "start_timestamp": "2023-01-27T05:52:22.019Z",
+        "before": [
+          {
+            "result": {
+              "duration": 388200,
+              "status": "passed"
+            },
+            "match": {
+              "location": "Before_And_After.beforeExecutedClassForCustomerDetails(Scenario)"
+            }
+          }
+        ],
+        "line": 4,
+        "name": "To validate application 1st Contact\u0027s Name",
+        "description": "",
+        "id": "validate-application-customer-details-contact-s-name-functionality;to-validate-application-1st-contact-s-name",
+        "after": [
+          {
+            "result": {
+              "duration": 245300,
+              "status": "passed"
+            },
+            "match": {
+              "location": "Before_And_After.afterExecutedClassForCustomerDetails(Scenario)"
+            }
+          }
+        ],
+        "type": "scenario",
+        "keyword": "Scenario",
+        "steps": [
+          {
+            "result": {
+              "duration": 193811700,
+              "status": "passed"
+            },
+            "line": 5,
+            "name": "Click on Filter Button",
+            "match": {
+              "location": "Steps.click_on_Filter_Button()"
+            },
+            "keyword": "When "
+          },
+          {
+            "result": {
+              "duration": 211436700,
+              "status": "passed"
+            },
+            "line": 6,
+            "name": "Click on Contacts Email Button",
+            "match": {
+              "location": "Steps.click_on_Contacts_Email_Button()"
+            },
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 187982400,
+              "status": "passed"
+            },
+            "line": 7,
+            "name": "Enter the Firstname",
+            "match": {
+              "location": "Steps.enter_the_Firstname()"
+            },
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 226101400,
+              "status": "passed"
+            },
+            "line": 8,
+            "name": "Enter the Lastname",
+            "match": {
+              "location": "Steps.enter_the_Lastname()"
+            },
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 239913700,
+              "status": "passed"
+            },
+            "line": 9,
+            "name": "Click on Search Button",
+            "match": {
+              "location": "Steps.click_on_Search_Button()"
+            },
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 20048885400,
+              "status": "passed"
+            },
+            "line": 10,
+            "name": "Click on Reveal Button",
+            "match": {
+              "location": "Steps.click_on_Reveal_Button()"
+            },
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 208999800,
+              "status": "passed"
+            },
+            "line": 11,
+            "name": "Click on Cancel Button",
+            "match": {
+              "location": "Steps.click_on_Cancel_Button()"
+            },
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 4922708900,
+              "status": "passed"
+            },
+            "line": 12,
+            "name": "Wait Till Page Load To Display Select All Data",
+            "match": {
+              "location": "Steps.wait_Till_Page_Load_To_Display_Select_All_Data()"
+            },
+            "keyword": "And "
+          }
+        ],
+        "tags": [
+          {
+            "name": "@Customer_Details"
+          }
+        ]
+      }
+    ],
+    "name": "Validate application Customer Details-Contact\u0027s Name Functionality",
+    "description": "",
+    "id": "validate-application-customer-details-contact-s-name-functionality",
+    "keyword": "Feature",
+    "uri": "file:src/test/resources/Features/TC05_Customer_Details_1st_Contact\u0027s_Name_Page.feature",
+    "tags": []
+  },
+  {
+    "line": 1,
+    "elements": [
+      {
+        "start_timestamp": "2023-01-27T05:52:48.272Z",
+        "before": [
+          {
+            "result": {
+              "duration": 784300,
+              "status": "passed"
+            },
+            "match": {
+              "location": "Before_And_After.beforeExecutedClassForCustomerDetails(Scenario)"
+            }
+          }
+        ],
+        "line": 4,
+        "name": "To validate application 2nd Contact\u0027s Name",
+        "description": "",
+        "id": "validate-application-customer-details-contact-s-name-functionality;to-validate-application-2nd-contact-s-name",
+        "after": [
+          {
+            "result": {
+              "duration": 469200,
+              "status": "passed"
+            },
+            "match": {
+              "location": "Before_And_After.afterExecutedClassForCustomerDetails(Scenario)"
+            }
+          }
+        ],
+        "type": "scenario",
+        "keyword": "Scenario",
+        "steps": [
+          {
+            "result": {
+              "duration": 283134500,
+              "status": "passed"
+            },
+            "line": 5,
+            "name": "Click on Filter Button",
+            "match": {
+              "location": "Steps.click_on_Filter_Button()"
+            },
+            "keyword": "When "
+          },
+          {
+            "result": {
+              "duration": 217679900,
+              "status": "passed"
+            },
+            "line": 6,
+            "name": "Click on Contacts Email Button",
+            "match": {
+              "location": "Steps.click_on_Contacts_Email_Button()"
+            },
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 202731100,
+              "status": "passed"
+            },
+            "line": 7,
+            "name": "Enter the 2nd Contacts Firstname",
+            "match": {
+              "arguments": [
+                {
+                  "val": "2",
+                  "offset": 10
+                }
+              ],
+              "location": "Steps.enter_the_nd_Contacts_Firstname(Integer)"
+            },
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 121668600,
+              "status": "passed"
+            },
+            "line": 8,
+            "name": "Enter the 2nd Contacts Lastname",
+            "match": {
+              "arguments": [
+                {
+                  "val": "2",
+                  "offset": 10
+                }
+              ],
+              "location": "Steps.enter_the_nd_Contacts_Lastname(Integer)"
+            },
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 153972200,
+              "status": "passed"
+            },
+            "line": 9,
+            "name": "Click on Search Button",
+            "match": {
+              "location": "Steps.click_on_Search_Button()"
+            },
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 20066153200,
+              "status": "passed"
+            },
+            "line": 10,
+            "name": "Click on Reveal Button",
+            "match": {
+              "location": "Steps.click_on_Reveal_Button()"
+            },
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 167433600,
+              "status": "passed"
+            },
+            "line": 11,
+            "name": "Click on Cancel Button",
+            "match": {
+              "location": "Steps.click_on_Cancel_Button()"
+            },
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 4575955000,
+              "status": "passed"
+            },
+            "line": 12,
+            "name": "Wait Till Page Load To Display Select All Data",
+            "match": {
+              "location": "Steps.wait_Till_Page_Load_To_Display_Select_All_Data()"
+            },
+            "keyword": "And "
+          }
+        ],
+        "tags": [
+          {
+            "name": "@Customer_Details"
+          }
+        ]
+      }
+    ],
+    "name": "Validate application Customer Details-Contact\u0027s Name Functionality",
+    "description": "",
+    "id": "validate-application-customer-details-contact-s-name-functionality",
+    "keyword": "Feature",
+    "uri": "file:src/test/resources/Features/TC06_Customer_Details_2nd_Contact\u0027s_Name_Page.feature",
+    "tags": []
+  },
+  {
+    "line": 1,
+    "elements": [
+      {
+        "start_timestamp": "2023-01-27T05:53:14.079Z",
+        "before": [
+          {
+            "result": {
+              "duration": 500700,
+              "status": "passed"
+            },
+            "match": {
+              "location": "Before_And_After.beforeExecutedClassForCustomerDetails(Scenario)"
+            }
+          }
+        ],
+        "line": 4,
+        "name": "To validate application 1st Contact\u0027s Email",
+        "description": "",
+        "id": "validate-application-customer-details-contact-s-email-functionality;to-validate-application-1st-contact-s-email",
+        "after": [
+          {
+            "result": {
+              "duration": 519500,
+              "status": "passed"
+            },
+            "match": {
+              "location": "Before_And_After.afterExecutedClassForCustomerDetails(Scenario)"
+            }
+          }
+        ],
+        "type": "scenario",
+        "keyword": "Scenario",
+        "steps": [
+          {
+            "result": {
+              "duration": 211117900,
+              "status": "passed"
+            },
+            "line": 5,
+            "name": "Click on Filter Button",
+            "match": {
+              "location": "Steps.click_on_Filter_Button()"
+            },
+            "keyword": "When "
+          },
+          {
+            "result": {
+              "duration": 199258100,
+              "status": "passed"
+            },
+            "line": 6,
+            "name": "Click on Contacts Name Email Button",
+            "match": {
+              "location": "Steps.click_on_Contacts_Name_Email_Button()"
+            },
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 217912100,
+              "status": "passed"
+            },
+            "line": 7,
+            "name": "Enter the 1st Contacts Email Address",
+            "match": {
+              "arguments": [
+                {
+                  "val": "1",
+                  "offset": 10
+                }
+              ],
+              "location": "Steps.enter_the_st_Contacts_Email_Address(Integer)"
+            },
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 171836700,
+              "status": "passed"
+            },
+            "line": 8,
+            "name": "Click on Search Button",
+            "match": {
+              "location": "Steps.click_on_Search_Button()"
+            },
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 20073669900,
+              "status": "passed"
+            },
+            "line": 9,
+            "name": "Click on Reveal Button",
+            "match": {
+              "location": "Steps.click_on_Reveal_Button()"
+            },
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 211162600,
+              "status": "passed"
+            },
+            "line": 10,
+            "name": "Click on Cancel Button",
+            "match": {
+              "location": "Steps.click_on_Cancel_Button()"
+            },
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 10234120300,
+              "status": "passed"
+            },
+            "line": 11,
+            "name": "Wait Till Page Load To Display Select All Data",
+            "match": {
+              "location": "Steps.wait_Till_Page_Load_To_Display_Select_All_Data()"
+            },
+            "keyword": "And "
+          }
+        ],
+        "tags": [
+          {
+            "name": "@Customer_Details"
+          }
+        ]
+      }
+    ],
+    "name": "Validate application Customer Details-Contact\u0027s Email Functionality",
+    "description": "",
+    "id": "validate-application-customer-details-contact-s-email-functionality",
+    "keyword": "Feature",
+    "uri": "file:src/test/resources/Features/TC07_Customer_Details_1st_Contact\u0027s_Email_Page.feature",
+    "tags": []
+  },
+  {
+    "line": 1,
+    "elements": [
+      {
+        "start_timestamp": "2023-01-27T05:53:45.413Z",
+        "before": [
+          {
+            "result": {
+              "duration": 557200,
+              "status": "passed"
+            },
+            "match": {
+              "location": "Before_And_After.beforeExecutedClassForCustomerDetails(Scenario)"
+            }
+          }
+        ],
+        "line": 4,
+        "name": "To validate application 2nd Contact\u0027s Email",
+        "description": "",
+        "id": "validate-application-customer-details-contact-s-email-functionality;to-validate-application-2nd-contact-s-email",
+        "after": [
+          {
+            "result": {
+              "duration": 477700,
+              "status": "passed"
+            },
+            "match": {
+              "location": "Before_And_After.afterExecutedClassForCustomerDetails(Scenario)"
+            }
+          }
+        ],
+        "type": "scenario",
+        "keyword": "Scenario",
+        "steps": [
+          {
+            "result": {
+              "duration": 215623100,
+              "status": "passed"
+            },
+            "line": 5,
+            "name": "Click on Filter Button",
+            "match": {
+              "location": "Steps.click_on_Filter_Button()"
+            },
+            "keyword": "When "
+          },
+          {
+            "result": {
+              "duration": 137933600,
+              "status": "passed"
+            },
+            "line": 6,
+            "name": "Click on Contacts Name Email Button",
+            "match": {
+              "location": "Steps.click_on_Contacts_Name_Email_Button()"
+            },
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 179977700,
+              "status": "passed"
+            },
+            "line": 7,
+            "name": "Enter the 2nd Contacts Email Address",
+            "match": {
+              "arguments": [
+                {
+                  "val": "2",
+                  "offset": 10
+                }
+              ],
+              "location": "Steps.enter_the_nd_Contacts_Email_Address(Integer)"
+            },
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 138282700,
+              "status": "passed"
+            },
+            "line": 8,
+            "name": "Click on Search Button",
+            "match": {
+              "location": "Steps.click_on_Search_Button()"
+            },
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 20012293700,
+              "status": "passed"
+            },
+            "line": 9,
+            "name": "Click on Reveal Button",
+            "match": {
+              "location": "Steps.click_on_Reveal_Button()"
+            },
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 188283200,
+              "status": "passed"
+            },
+            "line": 10,
+            "name": "Click on Cancel Button",
+            "match": {
+              "location": "Steps.click_on_Cancel_Button()"
+            },
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 7863806500,
+              "status": "passed"
+            },
+            "line": 11,
+            "name": "Wait Till Page Load To Display Select All Data",
+            "match": {
+              "location": "Steps.wait_Till_Page_Load_To_Display_Select_All_Data()"
+            },
+            "keyword": "And "
+          }
+        ],
+        "tags": [
+          {
+            "name": "@Customer_Details"
+          }
+        ]
+      }
+    ],
+    "name": "Validate application Customer Details-Contact\u0027s Email Functionality",
+    "description": "",
+    "id": "validate-application-customer-details-contact-s-email-functionality",
+    "keyword": "Feature",
+    "uri": "file:src/test/resources/Features/TC08_Customer_Details_2nd_Contact\u0027s_Email_Page.feature",
+    "tags": []
+  },
+  {
+    "line": 1,
+    "elements": [
+      {
+        "start_timestamp": "2023-01-27T05:54:14.166Z",
+        "before": [
+          {
+            "result": {
+              "duration": 534700,
+              "status": "passed"
+            },
+            "match": {
+              "location": "Before_And_After.beforeExecutedClassForCustomerDetails(Scenario)"
+            }
+          }
+        ],
+        "line": 4,
+        "name": "To validate application Job Level",
+        "description": "",
+        "id": "validate-application-customer-details-job-level-functionality;to-validate-application-job-level",
+        "after": [
+          {
+            "result": {
+              "duration": 290000,
+              "status": "passed"
+            },
+            "match": {
+              "location": "Before_And_After.afterExecutedClassForCustomerDetails(Scenario)"
+            }
+          }
+        ],
+        "type": "scenario",
+        "keyword": "Scenario",
+        "steps": [
+          {
+            "result": {
+              "duration": 253779000,
+              "status": "passed"
+            },
+            "line": 5,
+            "name": "Click on Filter Button",
+            "match": {
+              "location": "Steps.click_on_Filter_Button()"
+            },
+            "keyword": "When "
+          },
+          {
+            "result": {
+              "duration": 1228356900,
+              "status": "passed"
+            },
+            "line": 6,
+            "name": "Click on Job Level Button",
+            "match": {
+              "location": "Steps.click_on_Job_Level_Button()"
+            },
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 7345152000,
+              "status": "passed"
+            },
+            "line": 7,
+            "name": "Select All Checkbox Option in Job Level",
+            "match": {
+              "location": "Steps.select_All_Checkbox_Option_in_Job_Level()"
+            },
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 176507300,
+              "status": "passed"
+            },
+            "line": 8,
+            "name": "Click on Search Button",
+            "match": {
+              "location": "Steps.click_on_Search_Button()"
+            },
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 4515888000,
+              "status": "passed"
+            },
+            "line": 9,
+            "name": "Click on Cancel Button",
+            "match": {
+              "location": "Steps.click_on_Cancel_Button()"
+            },
+            "keyword": "And "
+          }
+        ],
+        "tags": [
+          {
+            "name": "@Customer_Details"
+          }
+        ]
+      }
+    ],
+    "name": "Validate application Customer Details-Job Level Functionality",
+    "description": "",
+    "id": "validate-application-customer-details-job-level-functionality",
+    "keyword": "Feature",
+    "uri": "file:src/test/resources/Features/TC09_Customer_Details_Job_Level_Page.feature",
+    "tags": []
+  },
+  {
+    "line": 1,
+    "elements": [
+      {
+        "start_timestamp": "2023-01-27T05:54:27.698Z",
+        "before": [
+          {
+            "result": {
+              "duration": 329100,
+              "status": "passed"
+            },
+            "match": {
+              "location": "Before_And_After.beforeExecutedClassForCustomerDetails(Scenario)"
+            }
+          }
+        ],
+        "line": 4,
+        "name": "To validate application Job Department functionality",
+        "description": "",
+        "id": "validate-application-customer-details-job-department-functionality;to-validate-application-job-department-functionality",
+        "after": [
+          {
+            "result": {
+              "duration": 512500,
+              "status": "passed"
+            },
+            "match": {
+              "location": "Before_And_After.afterExecutedClassForCustomerDetails(Scenario)"
+            }
+          }
+        ],
+        "type": "scenario",
+        "keyword": "Scenario",
+        "steps": [
+          {
+            "result": {
+              "duration": 10007985600,
+              "status": "passed"
+            },
+            "line": 5,
+            "name": "I Wait for Page Load",
+            "match": {
+              "location": "Steps.i_Wait_for_Page_Load()"
+            },
+            "keyword": "Then "
+          },
+          {
+            "result": {
+              "duration": 243516200,
+              "status": "passed"
+            },
+            "line": 6,
+            "name": "Click on Filter Button",
+            "match": {
+              "location": "Steps.click_on_Filter_Button()"
+            },
+            "keyword": "When "
+          },
+          {
+            "result": {
+              "duration": 1176412600,
+              "status": "passed"
+            },
+            "line": 7,
+            "name": "Click on Job Department Button",
+            "match": {
+              "location": "Steps.click_on_Job_Department_Button()"
+            },
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 1247250300,
+              "status": "passed"
+            },
+            "line": 8,
+            "name": "Select All Checkbox Option in Job Department",
+            "match": {
+              "location": "Steps.select_All_Checkbox_Option_in_Job_Department()"
+            },
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 161210700,
+              "status": "passed"
+            },
+            "line": 9,
+            "name": "Click on Search Button",
+            "match": {
+              "location": "Steps.click_on_Search_Button()"
+            },
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 4287772000,
+              "status": "passed"
+            },
+            "line": 10,
+            "name": "Click on Cancel Button",
+            "match": {
+              "location": "Steps.click_on_Cancel_Button()"
+            },
+            "keyword": "And "
+          }
+        ],
+        "tags": [
+          {
+            "name": "@Customer_Details"
+          }
+        ]
+      }
+    ],
+    "name": "Validate application Customer Details-Job Department Functionality",
+    "description": "",
+    "id": "validate-application-customer-details-job-department-functionality",
+    "keyword": "Feature",
+    "uri": "file:src/test/resources/Features/TC10_Customer_Details_Job_Department_Page.feature",
+    "tags": []
+  },
+  {
+    "line": 1,
+    "elements": [
+      {
+        "start_timestamp": "2023-01-27T05:54:44.833Z",
+        "before": [
+          {
+            "result": {
+              "duration": 255500,
+              "status": "passed"
+            },
+            "match": {
+              "location": "Before_And_After.beforeExecutedClassForCustomerDetails(Scenario)"
+            }
+          }
+        ],
+        "line": 4,
+        "name": "To validate application Job Title",
+        "description": "",
+        "id": "validate-application-customer-details-job-title-functionality;to-validate-application-job-title",
+        "after": [
+          {
+            "result": {
+              "duration": 514800,
+              "status": "passed"
+            },
+            "match": {
+              "location": "Before_And_After.afterExecutedClassForCustomerDetails(Scenario)"
+            }
+          }
+        ],
+        "type": "scenario",
+        "keyword": "Scenario",
+        "steps": [
+          {
+            "result": {
+              "duration": 10001100000,
+              "status": "passed"
+            },
+            "line": 5,
+            "name": "I Wait for Page Load",
+            "match": {
+              "location": "Steps.i_Wait_for_Page_Load()"
+            },
+            "keyword": "Then "
+          },
+          {
+            "result": {
+              "duration": 232847300,
+              "status": "passed"
+            },
+            "line": 6,
+            "name": "Click on Filter Button",
+            "match": {
+              "location": "Steps.click_on_Filter_Button()"
+            },
+            "keyword": "When "
+          },
+          {
+            "result": {
+              "duration": 1190747600,
+              "status": "passed"
+            },
+            "line": 7,
+            "name": "Click on Job Title Button",
+            "match": {
+              "location": "Steps.click_on_Job_Title_Button()"
+            },
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 190743600,
+              "status": "passed"
+            },
+            "line": 8,
+            "name": "Click on Search Button",
+            "match": {
+              "location": "Steps.click_on_Search_Button()"
+            },
+            "keyword": "And "
+          }
+        ],
+        "tags": [
+          {
+            "name": "@Customer_Details"
+          }
+        ]
+      }
+    ],
+    "name": "Validate application Customer Details-Job Title Functionality",
+    "description": "",
+    "id": "validate-application-customer-details-job-title-functionality",
+    "keyword": "Feature",
+    "uri": "file:src/test/resources/Features/TC11_Customer_Details_Job_Title_Page.feature",
+    "tags": []
+  },
+  {
+    "line": 1,
+    "elements": [
+      {
+        "start_timestamp": "2023-01-27T05:54:56.470Z",
+        "before": [
+          {
+            "result": {
+              "duration": 300700,
+              "status": "passed"
+            },
+            "match": {
+              "location": "Before_And_After.beforeExecutedClassForCustomerDetails(Scenario)"
+            }
+          }
+        ],
+        "line": 4,
+        "name": "To validate application Job Location functionality",
+        "description": "",
+        "id": "validate-application-customer-details-job-location-functionality;to-validate-application-job-location-functionality",
+        "after": [
+          {
+            "result": {
+              "duration": 314100,
+              "status": "passed"
+            },
+            "match": {
+              "location": "Before_And_After.afterExecutedClassForCustomerDetails(Scenario)"
+            }
+          }
+        ],
+        "type": "scenario",
+        "keyword": "Scenario",
+        "steps": [
+          {
+            "result": {
+              "duration": 5259235500,
+              "status": "passed"
+            },
+            "line": 5,
+            "name": "Click on Filter Button",
+            "match": {
+              "location": "Steps.click_on_Filter_Button()"
+            },
+            "keyword": "When "
+          },
+          {
+            "result": {
+              "duration": 1193369600,
+              "status": "passed"
+            },
+            "line": 6,
+            "name": "Click on Job Location Button",
+            "match": {
+              "location": "Steps.click_on_Job_Location_Button()"
+            },
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 171983200,
+              "status": "passed"
+            },
+            "line": 7,
+            "name": "Click on Search Button",
+            "match": {
+              "location": "Steps.click_on_Search_Button()"
+            },
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 2203526700,
+              "status": "passed"
+            },
+            "line": 8,
+            "name": "Close the Browser",
+            "match": {
+              "location": "Steps.close_the_Browser()"
+            },
+            "keyword": "And "
+          }
+        ],
+        "tags": [
+          {
+            "name": "@Customer_Details"
+          }
+        ]
+      }
+    ],
+    "name": "Validate application Customer Details-Job Location Functionality",
+    "description": "",
+    "id": "validate-application-customer-details-job-location-functionality",
+    "keyword": "Feature",
+    "uri": "file:src/test/resources/Features/TC12_Customer_Details_Job_Location_Page.feature",
+    "tags": []
+  }
+]

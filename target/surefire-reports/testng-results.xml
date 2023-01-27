@@ -1,0 +1,224 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="12" passed="12" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2023-01-27T05:48:33Z" name="Suite" finished-at="2023-01-27T05:55:06Z" duration-ms="392113">
+    <groups>
+      <group name="cucumber">
+        <method signature="AbstractTestNGCucumberTests.runScenario(io.cucumber.testng.PickleEventWrapper, io.cucumber.testng.CucumberFeatureWrapper)[pri:0, instance:org.runner.Runner@5149d738]" name="runScenario" class="io.cucumber.testng.AbstractTestNGCucumberTests"/>
+      </group> <!-- cucumber -->
+    </groups>
+    <test started-at="2023-01-27T05:48:33Z" name="Test" finished-at="2023-01-27T05:55:06Z" duration-ms="392113">
+      <class name="org.runner.Runner">
+        <test-method is-config="true" signature="allureReportCleanup()[pri:0, instance:org.runner.Runner@5149d738]" started-at="2023-01-27T05:48:33Z" name="allureReportCleanup" finished-at="2023-01-27T05:48:33Z" duration-ms="11" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- allureReportCleanup -->
+        <test-method is-config="true" signature="setUpClass()[pri:0, instance:org.runner.Runner@5149d738]" started-at="2023-01-27T05:48:34Z" name="setUpClass" finished-at="2023-01-27T05:48:34Z" duration-ms="759" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUpClass -->
+        <test-method signature="runScenario(io.cucumber.testng.PickleEventWrapper, io.cucumber.testng.CucumberFeatureWrapper)[pri:0, instance:org.runner.Runner@5149d738]" started-at="2023-01-27T05:48:34Z" name="runScenario" description="Runs Cucumber Scenarios" data-provider="scenarios" finished-at="2023-01-27T05:49:32Z" duration-ms="57789" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA["To validate application login page with Indian Region"]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA["Validate application login Page with India Region functionality"]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- runScenario -->
+        <test-method signature="runScenario(io.cucumber.testng.PickleEventWrapper, io.cucumber.testng.CucumberFeatureWrapper)[pri:0, instance:org.runner.Runner@5149d738]" started-at="2023-01-27T05:49:32Z" name="runScenario" description="Runs Cucumber Scenarios" data-provider="scenarios" finished-at="2023-01-27T05:50:30Z" duration-ms="57555" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA["To validate application login page with US Region"]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA["Validate application login Page with US Region functionality"]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- runScenario -->
+        <test-method signature="runScenario(io.cucumber.testng.PickleEventWrapper, io.cucumber.testng.CucumberFeatureWrapper)[pri:0, instance:org.runner.Runner@5149d738]" started-at="2023-01-27T05:50:30Z" name="runScenario" description="Runs Cucumber Scenarios" data-provider="scenarios" finished-at="2023-01-27T05:51:35Z" duration-ms="65158" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA["To validate application login page with UK Region"]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA["Validate application login Page with UK Region functionality"]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- runScenario -->
+        <test-method signature="runScenario(io.cucumber.testng.PickleEventWrapper, io.cucumber.testng.CucumberFeatureWrapper)[pri:0, instance:org.runner.Runner@5149d738]" started-at="2023-01-27T05:51:35Z" name="runScenario" description="Runs Cucumber Scenarios" data-provider="scenarios" finished-at="2023-01-27T05:52:22Z" duration-ms="46648" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA["To validate application login page"]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA["Validate application Customer Details-login page"]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- runScenario -->
+        <test-method signature="runScenario(io.cucumber.testng.PickleEventWrapper, io.cucumber.testng.CucumberFeatureWrapper)[pri:0, instance:org.runner.Runner@5149d738]" started-at="2023-01-27T05:52:22Z" name="runScenario" description="Runs Cucumber Scenarios" data-provider="scenarios" finished-at="2023-01-27T05:52:48Z" duration-ms="26252" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA["To validate application 1st Contact's Name"]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA["Validate application Customer Details-Contact's Name Functionality"]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- runScenario -->
+        <test-method signature="runScenario(io.cucumber.testng.PickleEventWrapper, io.cucumber.testng.CucumberFeatureWrapper)[pri:0, instance:org.runner.Runner@5149d738]" started-at="2023-01-27T05:52:48Z" name="runScenario" description="Runs Cucumber Scenarios" data-provider="scenarios" finished-at="2023-01-27T05:53:14Z" duration-ms="25808" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA["To validate application 2nd Contact's Name"]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA["Validate application Customer Details-Contact's Name Functionality"]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- runScenario -->
+        <test-method signature="runScenario(io.cucumber.testng.PickleEventWrapper, io.cucumber.testng.CucumberFeatureWrapper)[pri:0, instance:org.runner.Runner@5149d738]" started-at="2023-01-27T05:53:14Z" name="runScenario" description="Runs Cucumber Scenarios" data-provider="scenarios" finished-at="2023-01-27T05:53:45Z" duration-ms="31334" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA["To validate application 1st Contact's Email"]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA["Validate application Customer Details-Contact's Email Functionality"]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- runScenario -->
+        <test-method signature="runScenario(io.cucumber.testng.PickleEventWrapper, io.cucumber.testng.CucumberFeatureWrapper)[pri:0, instance:org.runner.Runner@5149d738]" started-at="2023-01-27T05:53:45Z" name="runScenario" description="Runs Cucumber Scenarios" data-provider="scenarios" finished-at="2023-01-27T05:54:14Z" duration-ms="28754" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA["To validate application 2nd Contact's Email"]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA["Validate application Customer Details-Contact's Email Functionality"]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- runScenario -->
+        <test-method signature="runScenario(io.cucumber.testng.PickleEventWrapper, io.cucumber.testng.CucumberFeatureWrapper)[pri:0, instance:org.runner.Runner@5149d738]" started-at="2023-01-27T05:54:14Z" name="runScenario" description="Runs Cucumber Scenarios" data-provider="scenarios" finished-at="2023-01-27T05:54:27Z" duration-ms="13531" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA["To validate application Job Level"]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA["Validate application Customer Details-Job Level Functionality"]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- runScenario -->
+        <test-method signature="runScenario(io.cucumber.testng.PickleEventWrapper, io.cucumber.testng.CucumberFeatureWrapper)[pri:0, instance:org.runner.Runner@5149d738]" started-at="2023-01-27T05:54:27Z" name="runScenario" description="Runs Cucumber Scenarios" data-provider="scenarios" finished-at="2023-01-27T05:54:44Z" duration-ms="17135" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA["To validate application Job Department functionality"]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA["Validate application Customer Details-Job Department Functionality"]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- runScenario -->
+        <test-method signature="runScenario(io.cucumber.testng.PickleEventWrapper, io.cucumber.testng.CucumberFeatureWrapper)[pri:0, instance:org.runner.Runner@5149d738]" started-at="2023-01-27T05:54:44Z" name="runScenario" description="Runs Cucumber Scenarios" data-provider="scenarios" finished-at="2023-01-27T05:54:56Z" duration-ms="11636" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA["To validate application Job Title"]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA["Validate application Customer Details-Job Title Functionality"]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- runScenario -->
+        <test-method signature="runScenario(io.cucumber.testng.PickleEventWrapper, io.cucumber.testng.CucumberFeatureWrapper)[pri:0, instance:org.runner.Runner@5149d738]" started-at="2023-01-27T05:54:56Z" name="runScenario" description="Runs Cucumber Scenarios" data-provider="scenarios" finished-at="2023-01-27T05:55:05Z" duration-ms="8835" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA["To validate application Job Location functionality"]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA["Validate application Customer Details-Job Location Functionality"]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- runScenario -->
+        <test-method is-config="true" signature="tearDownClass()[pri:0, instance:org.runner.Runner@5149d738]" started-at="2023-01-27T05:55:05Z" name="tearDownClass" finished-at="2023-01-27T05:55:06Z" duration-ms="802" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDownClass -->
+        <test-method is-config="true" signature="cucumberReportGenerate()[pri:0, instance:org.runner.Runner@5149d738]" started-at="2023-01-27T05:55:06Z" name="cucumberReportGenerate" finished-at="2023-01-27T05:55:07Z" duration-ms="1105" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- cucumberReportGenerate -->
+      </class> <!-- org.runner.Runner -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
