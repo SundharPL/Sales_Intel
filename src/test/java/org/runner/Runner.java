@@ -44,31 +44,5 @@ public class Runner extends AbstractTestNGCucumberTests {
 		Global.generateJVMReport(
 				System.getProperty("user.dir") + "\\src\\test\\resources\\Reports\\Json\\cucumber.json");
 	}
-//name: Sales Intel Rev Driver Automation
-//
-//on: 
-//  push:
-//    branches: [master]
-//  release:
-//    types: [created] 
-//
-//jobs:
-//  build:
-//    runs-on: windows-latest
-//    permissions:
-//      contents: read
-//      packages: write
-//
-//    steps:
-//      - uses: actions/checkout@v3
-//      - name: Set up JDK 17
-//        uses: actions/setup-java@v3
-//        with:
-//          java-version: '17'
-//          distribution: 'temurin'
-//      - name: Test with Maven
-//        run: mvn clean install test
-//      - name: Build with Maven
-//        run: mvn --batch-mode --update-snapshots package
 
 }
